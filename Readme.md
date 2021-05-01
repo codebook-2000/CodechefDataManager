@@ -1,5 +1,5 @@
 # CodechefDataRetriever
-A *java web scraping project* (using jsoup) to fetch user data from user id from codechef.com
+A *java web scraping project* (using jsoup) to fetch all important user data just by typing the user id from codechef.com
 
 ---
 
